@@ -1,0 +1,1 @@
+# plugins-woocommerce-google-dynamic-retargeting-tag
