@@ -1,4 +1,4 @@
-=== WooCommerce Google Ads Dynamic Remarketing ===
+=== Dynamic Remarketing for Google Ads and WooCommerce ===
 Contributors: alekv, welovesweetcode
 Tags: woocommerce, google ads, dynamic remarketing, dynamic retargeting
 Requires at least: 3.1
@@ -11,7 +11,7 @@ This plugin integrates the Google Ads Dynamic Remarketing Tracking pixel with cu
 
 == Description ==
 
-> **This plugin is deprecated. All its features and much more has been merged into our main plugin, the** [Pixel Manager for WooCommerce](https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/).
+> This plugin is deprecated. All its features and much more has been merged into our main plugin, the [WooCommerce Pixel Manager](https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/).
 
 Do you have a WooCommerce shop and want to run dynamic remarketing campaigns with Google Ads? This plugin will insert the customized remarketing pixel on all your shop pages. Google Ads will then be able to collect customer behaviour data (product viewers, buyers, order value, cart abandoners, etc). Based on this data you will be able to run targeted remarketing campaigns.
 
@@ -49,7 +49,7 @@ If you also need to to set up the Google Merchant Center first the entire setup 
 
 <strong>Similar plugins</strong>
 
-If you like this plugin, have a look at our other Google Ads related plugin: [WooCommerce Google Ads Conversion Tracking](https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/)
+If you like this plugin, have a look at our other Google Ads related plugin: [Pixel Manager for WooCommerce](https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/)
 
 <strong>Support Info</strong>
 
